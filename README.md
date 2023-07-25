@@ -13,3 +13,5 @@ https://generatorofqr.netlify.app/
 https://baterydetector.netlify.app/
 
 https://xotic-tac-toe.netlify.app/
+
+https://flipperofthecoin.netlify.app/
