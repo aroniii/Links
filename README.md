@@ -8,4 +8,6 @@ https://noteditor.netlify.app/
 
 https://generatorofpaswords.netlify.app/  
 
-https://generatorofqr.netlify.app/  
+https://generatorofqr.netlify.app/ 
+
+https://baterydetector.netlify.app/
