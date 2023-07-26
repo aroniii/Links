@@ -23,3 +23,5 @@ https://movieguidapp.netlify.app/
 https://texttester.netlify.app/
 
 https://js-transator.netlify.app/
+
+https://pricesofcryptos.netlify.app/
