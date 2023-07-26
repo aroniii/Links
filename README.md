@@ -1,31 +1,31 @@
-https://internetspeed.netlify.app/ -InternetSpeed
+https://internetspeed.netlify.app/
 
-https://thechannelofweather.netlify.app/ - Weather
+https://thechannelofweather.netlify.app/ 
 
-https://pixelartist.netlify.app/ - PixelArt
+https://pixelartist.netlify.app/
 
-https://noteditor.netlify.app/ - Note
+https://noteditor.netlify.app/
 
-https://generatorofpaswords.netlify.app/ - Password  
+https://generatorofpaswords.netlify.app/ ]
 
-https://generatorofqr.netlify.app/ - Qr Code
+https://generatorofqr.netlify.app/
 
-https://baterydetector.netlify.app/ - Battery
+https://baterydetector.netlify.app/ 
 
-https://xotic-tac-toe.netlify.app/ - XO
+https://xotic-tac-toe.netlify.app/ 
 
-https://flipperofthecoin.netlify.app/ - Coin
+https://flipperofthecoin.netlify.app/ 
 
-https://calculatorofaspectratio.netlify.app/ - AspectRatio
+https://calculatorofaspectratio.netlify.app/ 
 
-https://movieguidapp.netlify.app/ - Movie
+https://movieguidapp.netlify.app/ 
 
-https://texttester.netlify.app/ - TextTester
+https://texttester.netlify.app/
 
-https://js-transator.netlify.app/ - Translate
+https://js-transator.netlify.app/ 
 
-https://pricesofcryptos.netlify.app/ - CryptoPrices
+https://pricesofcryptos.netlify.app/ 
 
-https://list-t0d0.netlify.app/ - ToDo
+https://list-t0d0.netlify.app/ 
 
-https://geometricartist.netlify.app/ - GeometricArt
+https://geometricartist.netlify.app/ 
