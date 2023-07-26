@@ -29,3 +29,7 @@ https://pricesofcryptos.netlify.app/
 https://list-t0d0.netlify.app/ 
 
 https://geometricartist.netlify.app/ 
+
+https://js-nokia-snakegame.netlify.app/
+
+https://js-nokia-snakegame.netlify.app/
