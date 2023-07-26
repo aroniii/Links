@@ -1,4 +1,4 @@
-https://internetspeed.netlify.app/ 
+https://internetspeed.netlify.app/ -InternetSpeed
 
 https://thechannelofweather.netlify.app/  
 
@@ -27,3 +27,5 @@ https://js-transator.netlify.app/
 https://pricesofcryptos.netlify.app/
 
 https://list-t0d0.netlify.app/
+
+https://geometricartist.netlify.app/
