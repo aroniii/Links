@@ -33,3 +33,5 @@ https://geometricartist.netlify.app/
 https://js-nokia-snakegame.netlify.app/
 
 https://js-nokia-snakegame.netlify.app/
+
+https://calculatorofbudget.netlify.app/
