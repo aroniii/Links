@@ -39,3 +39,6 @@ https://calculatorofbudget.netlify.app/
 https://js-texttospeech.netlify.app/
 
 https://spin-of-luck.netlify.app/
+
+https://gardientgenerator.netlify.app/
+https://gardientgenerator.netlify.app/https://gardientgenerator.netlify.app/
