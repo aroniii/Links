@@ -37,3 +37,5 @@ https://js-nokia-snakegame.netlify.app/
 https://calculatorofbudget.netlify.app/
 
 https://js-texttospeech.netlify.app/
+
+https://spin-of-luck.netlify.app/
