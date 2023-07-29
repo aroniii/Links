@@ -53,3 +53,5 @@ https://guesserofwords.netlify.app/
 https://kitchen-guid.netlify.app/
 
 https://kitchen-guid.netlify.app/
+
+https://mine-sweepergame.netlify.app/
