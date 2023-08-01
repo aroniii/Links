@@ -32,19 +32,13 @@ https://geometricartist.netlify.app/
 
 https://js-nokia-snakegame.netlify.app/
 
-https://js-nokia-snakegame.netlify.app/
-
 https://calculatorofbudget.netlify.app/
 
 https://js-texttospeech.netlify.app/
 
 https://spin-of-luck.netlify.app/
 
-https://gardientgenerator.netlify.app/
-
 https://rememberthecolors.netlify.app/
-
-https://gardientgenerator.netlify.app/
 
 https://gardientgenerator.netlify.app/
 
@@ -53,8 +47,6 @@ https://guesserofwords.netlify.app/
 https://kitchen-guid.netlify.app/
 
 https://mine-sweepergame.netlify.app/
-
-https://git-hub-api.netlify.app/
 
 https://git-hub-api.netlify.app/
 
