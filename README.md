@@ -57,3 +57,5 @@ https://mymape.netlify.app/
 https://pongvsai.netlify.app/
 
 https://pongvsai.netlify.app/
+
+chrome://extensions/?id=hpamajggajpcjkgbofkoedllcjnoepaf
