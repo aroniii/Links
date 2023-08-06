@@ -51,3 +51,5 @@ https://mine-sweepergame.netlify.app/
 https://git-hub-api.netlify.app/
 
 https://bounceball-game.netlify.app/
+
+https://mymape.netlify.app/
