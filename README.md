@@ -57,3 +57,5 @@ https://mymape.netlify.app/
 https://pongvsai.netlify.app/
 
 https://tradeview-widget.netlify.app/
+
+https://changer-ex.netlify.app/
