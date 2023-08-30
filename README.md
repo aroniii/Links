@@ -64,3 +64,5 @@ https://online-website-coding.netlify.app/
 
 https://4k-image-generator.netlify.app/
 
+https://solver-of-sudoku.netlify.app/
+https://solver-of-sudoku.netlify.app/
